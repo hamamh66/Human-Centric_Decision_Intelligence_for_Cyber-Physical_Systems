@@ -1,0 +1,14 @@
+item,value
+dataset,KDDCup99 percent10 (public)
+task,Binary normal-vs-attack classification
+model,Regularized Logistic Regression
+feature_noise_std,0.03
+score_noise_std,0.07
+score_shrinkage,0.62
+threshold,0.65
+accuracy,0.9721167957087192
+precision,0.9990640355666485
+recall,0.9662672718357495
+f1_score,0.9823920032212089
+roc_auc,0.9971300869737519
+average_precision,0.9992380005668641
