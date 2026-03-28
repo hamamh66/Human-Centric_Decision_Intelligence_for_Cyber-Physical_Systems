@@ -1,0 +1,2 @@
+# Human-Centric_Decision_Intelligence_for_Cyber-Physical_Systems
+A reproducible, explainable, and calibrated decision intelligence framework for cyber-physical systems that integrates trust-aware monitoring, predictive modeling, and structured risk prioritization. The framework transforms raw system signals and model outputs into interpretable, human-centric decision categories, enabling informed intervention.
