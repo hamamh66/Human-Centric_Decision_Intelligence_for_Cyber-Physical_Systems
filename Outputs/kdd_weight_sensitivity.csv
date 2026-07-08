@@ -1,0 +1,4 @@
+perturbation,roc_auc,ap,ece
+anomaly weights 0.5/0.5,0.9981,0.9994,0.02
+anomaly weights 0.6/0.4,0.9981,0.9994,0.0198
+anomaly weights 0.7/0.3,0.9981,0.9994,0.0197
